@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4cc47428500947b40ab5c1d725bdc792
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179537
+  packageName: Selection Utility
+  packageVersion: 1.2
+  assetPath: Assets/SelectionUtility/Sample/Nementic.SelectionUtility.Samples.asmdef
+  uploadId: 428245

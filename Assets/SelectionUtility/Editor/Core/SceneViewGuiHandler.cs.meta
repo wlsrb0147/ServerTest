@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 76e7dd0d414bc2e4dbabafb2202123a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179537
+  packageName: Selection Utility
+  packageVersion: 1.2
+  assetPath: Assets/SelectionUtility/Editor/Core/SceneViewGuiHandler.cs
+  uploadId: 428245

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 722f72e9d55c599499a82cbc0222a938
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179537
+  packageName: Selection Utility
+  packageVersion: 1.2
+  assetPath: Assets/SelectionUtility/Editor/Preferences/IntSetting.cs
+  uploadId: 428245

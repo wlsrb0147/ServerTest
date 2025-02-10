@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b12b1d9afb34cbc4a800dbc4790dc6c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179537
+  packageName: Selection Utility
+  packageVersion: 1.2
+  assetPath: Assets/SelectionUtility/Editor/Core/SelectionPopup.cs
+  uploadId: 428245

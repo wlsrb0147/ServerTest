@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: db9676285a1743d4d91853f1b1612cfd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179537
+  packageName: Selection Utility
+  packageVersion: 1.2
+  assetPath: Assets/SelectionUtility/Editor/Core/IconCache.cs
+  uploadId: 428245

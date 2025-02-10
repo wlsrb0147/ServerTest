@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Asstes2
+  m_EditorClassIdentifier: 
+  m_GroupName: Asstes2
+  m_GUID: 7aa4d839d0c305140be7f924b937c73a
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 25f63f08eb6f0b044bbb3bbb8ec0d88f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 68b16f60fc266c44fbb5c77c88116e77, type: 2}
+    - {fileID: 11400000, guid: c904d620b6882f94f891b1d4d493aafc, type: 2}

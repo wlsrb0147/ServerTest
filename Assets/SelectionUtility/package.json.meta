@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95d0bf8d04882cf4c86bcaba2fa1b708
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179537
+  packageName: Selection Utility
+  packageVersion: 1.2
+  assetPath: Assets/SelectionUtility/package.json
+  uploadId: 428245
